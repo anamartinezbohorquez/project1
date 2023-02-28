@@ -1,1 +1,1 @@
-mi primer proyecto usando django
+practicando JS
